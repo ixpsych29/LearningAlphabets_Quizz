@@ -105,7 +105,8 @@
             android:height="60dp"
             android:minWidth="40dp"
             android:text="E"
-            android:textAlignment="center" />
+            android:textAlignment="center"
+            android:onClick="e_click"/>
 
         <Button
             android:id="@+id/f_btn"

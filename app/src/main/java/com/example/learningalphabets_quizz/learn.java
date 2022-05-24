@@ -33,4 +33,9 @@ public class learn extends AppCompatActivity {
         Intent in = new Intent(this, alpha_d.class);
         startActivity(in);
     }
+
+    public void e_click(View view) {
+        Intent in = new Intent(this, alpha_e.class);
+        startActivity(in);
+    }
 }
